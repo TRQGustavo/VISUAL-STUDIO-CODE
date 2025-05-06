@@ -15,8 +15,8 @@ print("Calculadora de Puntaje de Crédito")
 
 # Solicitar datos al usuario
 ingresos = int(input("Ingrese su cantidad de ingresos mensuales: "))
-nivel = input("Ingrese su nivel educacional (basico, medio, superior): ")
-nacionalidad = input("Ingrese su nacionalidad (chilena o extranjero): ")
+nivel = input("Ingrese su nivel educacional (basico, medio, superior): ").lower()
+nacionalidad = input("Ingrese su nacionalidad (chilena o extranjero): ").lower()
 puntaje=0
 
 # Calcular puntaje base según ingresos

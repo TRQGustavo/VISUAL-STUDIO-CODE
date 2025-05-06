@@ -1,2 +1,0 @@
- dfkhlnñcv ks
-dvfmbgjanfkvdml
